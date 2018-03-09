@@ -1,18 +1,14 @@
 ### Defining 5G: Self-Management Online and On the Go
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:
 
-```
-$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-```
-
-If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.
+Time management have evolved from sticky notes to the fourth generation, that is self management recognizing multiple social roles of an individual and tasks with different urgency and importance.
+We envison the fifth generation (5G) should provide software applications that support self management online and on the go via a friendly interface in the digital age. HyCal aims to be the 5G time management tool.
 
 ### Main Features
-We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.
 
-### Feel Like to Contribute?
+- Available on both desktop and mobile phones
+- Automatic synchronization via the cloud
+- Customizable roles
 
 ### Support or Contact
-Having trouble with HyCal? Report issues and we'll help you sort it out.
+
+Email: alick9188 at gmail (Mention "HyCal" in the subject.)
